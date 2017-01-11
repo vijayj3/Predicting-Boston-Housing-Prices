@@ -164,8 +164,8 @@ vs.PredictTrials(features, prices, fit_model, client_data)
  
 **Range in prices: $73,357.39**
 
-**Limitations** 
--The data is not that relevant because a lot of things would have changed from 1978 to until now. Because few areas would have become more commercialized than they were in 1978 thereby raising their prices by 10 folds than what they were before
--No, they aren't sufficient features, one of the most important features would be the area which is very key in distinguishing how they are priced.
--From the senstivity test done on the data above. It doesnt seem to be robust yet as the range that is obtained is $73,357.39 which is really odd as no broker would believe in the model since they make their cut off the pricing of the house and if they make more out of its good, but if they make less out of it and if they were to make $73,000 * (percentage cut) less, that would be huge.
--The data definitely cannot be used in a rural city as an urban city is more commercialized. Rural city prices would be way lower.
+**Limitations**   
+-The data is not that relevant because a lot of things would have changed from 1978 to until now. Because few areas would have become more commercialized than they were in 1978 thereby raising their prices by 10 folds than what they were before.  
+-No, they aren't sufficient features, one of the most important features would be the area which is very key in distinguishing how they are priced.  
+-From the senstivity test done on the data above. It doesnt seem to be robust yet as the range that is obtained is $73,357.39 which is really odd as no broker would believe in the model since they make their cut off the pricing of the house and if they make more out of its good, but if they make less out of it and if they were to make $73,000 * (percentage cut) less, that would be huge.  
+-The data definitely cannot be used in a rural city as an urban city is more commercialized. Rural city prices would be way lower.  
