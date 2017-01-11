@@ -1,4 +1,4 @@
-# Machine Learning Project:Predicting-Boston-Housing-Prices 
+# Predicting-Boston-Housing-Prices 
 
 This project applies  basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home.
 
