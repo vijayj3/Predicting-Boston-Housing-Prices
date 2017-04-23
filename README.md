@@ -51,7 +51,7 @@ We produced four graphs for a decision tree model with different maximum depths.
 ```python
 vs.ModelLearning(features, prices)
 ```
-![Image1](boston images/Image1.png)
+![Image1](https://github.com/vijayj3/Predicting-Boston-Housing-Prices/blob/master/boston%20images/Image1.png)
 
 **Learning the data:**
 If we consider the graph with max_depth =3, the training curve has a negative slope and as more training points are added, the score of the training curve decreases before stabilising at ~0.8. At the same time, adding more training points increases the score of the testing data which undergoes a sharp positive slope in the initial testing points before stabilising at a value of close to ~0.8. At close to 300 points, the two curves converge before diverging slightly. 
@@ -65,7 +65,7 @@ We considered a graph for a decision tree model that has been trained and valida
 ```python
 vs.ModelComplexity(X_train, y_train)
 ```
-![Image2](boston images/Image2.png)
+![Image2](https://github.com/vijayj3/Predicting-Boston-Housing-Prices/blob/master/boston%20images/Image2.png)
 
 **Bias-Variance Tradeoff:**
 - Case 1: MAX_DEPTH = 1  
